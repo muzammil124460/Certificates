@@ -4,10 +4,6 @@
 
 ### 🚀 A collection of my professional certifications, course completions, workshops, and event participation certificates.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Certificates?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Certificates?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Certificates?style=for-the-badge)
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&repo=Certificates&style=for-the-badge)
 
 </div>
 
@@ -59,12 +55,11 @@ These certificates represent my continuous learning journey and commitment to im
 
 ```text
 📦 Certificates
- ┣ 📂 Full Stack
- ┣ 📂 Python
- ┣ 📂 AI & GenAI
- ┣ 📂 Workshops
- ┣ 📂 Events
- ┗ 📂 Others
+ ┣ 📂 React Native
+ ┣ 📂 Backend development
+ ┣ 📂 SQL MySQL
+ ┣ 📂 Gen Ai Exchange Hackathone
+
 ```
 
 ---
@@ -83,14 +78,6 @@ I'm **Mohammad Muzammil**
 
 ### ⭐ Thanks for visiting my repository!
 
-If you like my learning journey,![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Certificates?style=for-the-badge)
-
-![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Certificates?style=for-the-badge)
-
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Certificates?style=for-the-badge) don't forget to ⭐ this repository.
 
 </div
